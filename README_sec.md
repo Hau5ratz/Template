@@ -1,13 +1,12 @@
 I would propose the creation of a custom encrypted sqlite3 database that can be easily store on a USB drive and accessible through excel file.
 
+https://docs.devart.com/odbc/sqlite/excel.htm
+
 https://pycryptodome.readthedocs.io/en/latest/index.html
 
 Pycrytodome contains ECC as an easily modifiable package
 
-
-
-ECC, an alternative technique to RSA, is a powerful cryptography approach. It generates security between key pairs for public key encryption by using the mathematics of elliptic curves.
-
+ECC,an alternative technique to RSA, is a powerful cryptography approach. It generates security between key pairs for public key encryption by using the mathematics of elliptic curves.
 
 2FA defined
 

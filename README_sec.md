@@ -1,4 +1,4 @@
-I would propose the creation of a custom encrypted sqlite3 database that can be easily store on a USB drive and accessible through excel file.
+I would propose the creation of a custom encrypted sqlite3 database that can be easily stored on a USB drive and accessible through excel file.
 
 https://docs.devart.com/odbc/sqlite/excel.htm
 
